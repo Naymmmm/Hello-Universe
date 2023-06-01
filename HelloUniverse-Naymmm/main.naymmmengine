@@ -1,0 +1,13 @@
+local naymmm = func
+
+naymmmiscool():start;
+
+import("speakup")
+
+naymmm mainfile() {
+    start:naymmmiscool.run
+    imported.speakup.init();
+    imported.speakup.Prnt("👋🚀🌍 Hello Universe!");
+}
+
+engine.terminate();
