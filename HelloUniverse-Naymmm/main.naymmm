@@ -1,0 +1,14 @@
+\>/! This is a comment in Naymmm
+\>/! This doesn't exist lol
+
+naymmmiscool():start;
+
+import("print")
+
+naymmm mainfile() {
+    start:naymmmiscool.run
+    imported.print.init();
+    imported.print.Prnt("👋🚀🌍 Hello Universe!");
+}
+
+engine.terminate();
